@@ -1200,6 +1200,6 @@ h3.text-center {
   }
 .portfolioImage{
       height: auto;
-      width:100%; 
-
+      
+      width: auto  ;height: auto; max-height: 400px; min-height: 250px;
 }
